@@ -1,0 +1,34 @@
+Aberdeenshire
+Angus
+Argyll & Bute
+Ayrshire
+Banffshire
+Berwickshire
+Borders
+Caithness
+Clackmannanshire
+Dumfries & Galloway
+Dunbartonshire
+East Ayrshire
+East Dunbartonshire
+East Lothian
+East Renfrewshire
+Fife
+Highland
+Inverclyde
+Kincardineshire
+Lanarkshire
+Midlothian
+Moray
+North Ayrshire
+North Lanarkshire
+Orkney
+Perth & Kinross
+Renfrewshire
+Shetland
+South Ayrshire
+South Lanarkshire
+Stirlingshire
+West Dunbartonshire
+West Lothian
+Western Isles
