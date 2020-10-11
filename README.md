@@ -1,5 +1,5 @@
 # useful-txt
-Useful txt files.
+Useful text files.
 
 Current list -
 
